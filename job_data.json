@@ -1,0 +1,279 @@
+[
+    {
+        "Job Title": "Data Analyst",
+        "Skills": [
+            "SQL",
+            "Python",
+            "Excel",
+            "Data Visualization",
+            "Statistics"
+        ],
+        "Job Description": "Analyzes complex datasets to identify trends, develop dashboards, and support business decisions."
+    },
+    {
+        "Job Title": "Backend Developer",
+        "Skills": [
+            "Node.js",
+            "Python",
+            "REST API",
+            "Database Management",
+            "Git"
+        ],
+        "Job Description": "Develops and maintains server-side logic, ensures performance, and integrates APIs and databases."
+    },
+    {
+        "Job Title": "QA Tester",
+        "Skills": [
+            "Manual Testing",
+            "Automated Testing",
+            "Selenium",
+            "Bug Tracking",
+            "Attention to Detail"
+        ],
+        "Job Description": "Ensures software quality by executing test cases, identifying bugs, and verifying fixes."
+    },
+    {
+        "Job Title": "Social Media Strategist",
+        "Skills": [
+            "Content Creation",
+            "SEO",
+            "Analytics",
+            "Trend Analysis",
+            "Campaign Planning"
+        ],
+        "Job Description": "Plans and executes social media strategies to enhance engagement and brand presence."
+    },
+    {
+        "Job Title": "Public Relations",
+        "Skills": [
+            "Media Relations",
+            "Crisis Management",
+            "Writing",
+            "Event Planning",
+            "Communication"
+        ],
+        "Job Description": "Builds and maintains a positive public image for clients through media and event strategies."
+    },
+    {
+        "Job Title": "Tax Consultant",
+        "Skills": [
+            "Tax Law",
+            "Accounting",
+            "Compliance",
+            "Problem Solving",
+            "Attention to Detail"
+        ],
+        "Job Description": "Advises clients on tax planning and filing strategies to ensure compliance and optimize savings."
+    },
+    {
+        "Job Title": "Copywriter",
+        "Skills": [
+            "Creative Writing",
+            "SEO",
+            "Storytelling",
+            "Editing",
+            "Marketing"
+        ],
+        "Job Description": "Writes engaging and persuasive content for advertisements, websites, and branding."
+    },
+    {
+        "Job Title": "Financial Analyst",
+        "Skills": [
+            "Financial Modeling",
+            "Excel",
+            "Forecasting",
+            "Investment Analysis",
+            "Critical Thinking"
+        ],
+        "Job Description": "Analyzes financial data to provide insights and support investment or budgetary decisions."
+    },
+    {
+        "Job Title": "Auditor",
+        "Skills": [
+            "Accounting",
+            "Internal Controls",
+            "Risk Assessment",
+            "Analytical Thinking",
+            "Compliance"
+        ],
+        "Job Description": "Conducts financial audits to ensure accuracy and regulatory compliance within organizations."
+    },
+    {
+        "Job Title": "HR Generalist",
+        "Skills": [
+            "Recruitment",
+            "Employee Relations",
+            "HRIS",
+            "Policy Implementation",
+            "Conflict Resolution"
+        ],
+        "Job Description": "Manages various HR functions such as hiring, training, and employee engagement."
+    },
+    {
+        "Job Title": "Career Counselor",
+        "Skills": [
+            "Counseling",
+            "Assessment Tools",
+            "Listening",
+            "Career Planning",
+            "Empathy"
+        ],
+        "Job Description": "Helps individuals explore career options and make informed decisions about their futures."
+    },
+    {
+        "Job Title": "User Researcher",
+        "Skills": [
+            "User Interviews",
+            "Usability Testing",
+            "Persona Development",
+            "UX Design",
+            "Data Analysis"
+        ],
+        "Job Description": "Conducts research to understand user needs and behavior to improve product experience."
+    },
+    {
+        "Job Title": "JavaScript Developer",
+        "Skills": [
+            "JavaScript",
+            "React",
+            "DOM Manipulation",
+            "ES6+",
+            "AJAX"
+        ],
+        "Job Description": "Builds dynamic user interfaces and interactive web applications using JavaScript frameworks."
+    },
+    {
+        "Job Title": "Java Developer",
+        "Skills": [
+            "Java",
+            "Spring Boot",
+            "OOP",
+            "REST APIs",
+            "Maven"
+        ],
+        "Job Description": "Designs and implements backend applications using Java and related frameworks."
+    },
+    {
+        "Job Title": "Node js Developer",
+        "Skills": [
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "JWT",
+            "REST APIs"
+        ],
+        "Job Description": "Develops scalable server-side applications using Node.js and handles API integrations."
+    },
+    {
+        "Job Title": "Software Engineer",
+        "Skills": [
+            "Programming",
+            "System Design",
+            "Debugging",
+            "Agile",
+            "Version Control"
+        ],
+        "Job Description": "Develops, tests, and maintains software solutions across various platforms and environments."
+    },
+    {
+        "Job Title": "iOS Developer",
+        "Skills": [
+            "Swift",
+            "Xcode",
+            "UIKit",
+            "Core Data",
+            "RESTful APIs"
+        ],
+        "Job Description": "Designs and develops mobile applications for Apple devices with smooth user experiences."
+    },
+    {
+        "Job Title": "PHP Developer",
+        "Skills": [
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "APIs",
+            "HTML/CSS"
+        ],
+        "Job Description": "Creates and maintains dynamic web applications using PHP frameworks and databases."
+    },
+    {
+        "Job Title": "Flutter Developer",
+        "Skills": [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "Cross-Platform Development",
+            "UI Design"
+        ],
+        "Job Description": "Builds high-performance cross-platform mobile apps using Flutter framework and Dart."
+    },
+    {
+        "Job Title": "DevOps Engineer",
+        "Skills": [
+            "CI/CD",
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Monitoring Tools"
+        ],
+        "Job Description": "Automates and optimizes development pipelines, ensuring continuous integration and delivery."
+    },
+    {
+        "Job Title": "Machine Learning",
+        "Skills": [
+            "Python",
+            "TensorFlow",
+            "Scikit-learn",
+            "Model Deployment",
+            "Data Preprocessing"
+        ],
+        "Job Description": "Designs and trains machine learning models to solve predictive and classification problems."
+    },
+    {
+        "Job Title": "Django Developer",
+        "Skills": [
+            "Python",
+            "Django",
+            "ORM",
+            "REST Framework",
+            "SQL"
+        ],
+        "Job Description": "Develops backend web applications using Django and ensures efficient data handling."
+    },
+    {
+        "Job Title": "Network Administrator",
+        "Skills": [
+            "Networking",
+            "Firewall Configuration",
+            "Troubleshooting",
+            "VPN",
+            "Linux"
+        ],
+        "Job Description": "Maintains and secures computer networks to ensure reliable communication and data flow."
+    },
+    {
+        "Job Title": "Database Administrator",
+        "Skills": [
+            "SQL",
+            "Database Design",
+            "Backup and Recovery",
+            "Performance Tuning",
+            "Oracle/MySQL"
+        ],
+        "Job Description": "Installs, configures, and manages databases while ensuring data integrity and availability."
+    },
+    {
+        "Job Title": "Full Stack Developer",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Node.js",
+            "MongoDB",
+            "React",
+            "APIs"
+        ],
+        "Job Description": "Handles both frontend and backend development, integrating databases and user interfaces."
+    }
+]

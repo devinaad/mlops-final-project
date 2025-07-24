@@ -1,0 +1,233 @@
+[
+  {
+    "major": "Teknik Informatika",
+    "status": "success",
+    "data": {
+      "query": "I am studying Teknik Informatika and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "TESOL Certificate, Part 1: Teach English Now!",
+          "organization": "Arizona State University",
+          "rating": 4.9,
+          "skills": "Oral Comprehension, Language Competency, Pedagogy, English Language, Learning Strategies, Instructional Strategies, Enthusiasm, Motivational Skills, Oral Expression, Learning Styles, Language Learning, Education Software and Technology, Vocabulary, Design Elements And Principles, Learning Theory, Design Strategies, Grammar, Self-Awareness, Stress Management, Goal Setting",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/tesol",
+          "score": 0.4658
+        }
+      ]
+    }
+  },
+  {
+    "major": "Sistem Informasi",
+    "status": "success",
+    "data": {
+      "query": "I am studying Sistem Informasi and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Improve Communication with Genial.ly",
+          "organization": "Coursera Project Network",
+          "rating": 4.7,
+          "skills": "Train The Trainer, Virtual Environment, Technical Communication, Design, Educational Materials, Communication, User Accounts, Communication Strategies",
+          "difficulty": "Beginner",
+          "duration": "Less Than 2 Hours",
+          "link": "https://www.coursera.org/projects/improve-communication-genially",
+          "score": 0.4325
+        }
+      ]
+    }
+  },
+  {
+    "major": "Teknik Komputer",
+    "status": "success",
+    "data": {
+      "query": "I am studying Teknik Komputer and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "TESOL Certificate, Part 1: Teach English Now!",
+          "organization": "Arizona State University",
+          "rating": 4.9,
+          "skills": "Oral Comprehension, Language Competency, Pedagogy, English Language, Learning Strategies, Instructional Strategies, Enthusiasm, Motivational Skills, Oral Expression, Learning Styles, Language Learning, Education Software and Technology, Vocabulary, Design Elements And Principles, Learning Theory, Design Strategies, Grammar, Self-Awareness, Stress Management, Goal Setting",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/tesol",
+          "score": 0.4493
+        }
+      ]
+    }
+  },
+  {
+    "major": "Ilmu Komputer",
+    "status": "success",
+    "data": {
+      "query": "I am studying Ilmu Komputer and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Communication Skills for University Success",
+          "organization": "The University of Sydney",
+          "rating": 4.8,
+          "skills": "Editing, Public Speaking, Proofreading, Research, Writing, Communication, English Language, Professionalism, Ethical Standards And Conduct, Interpersonal Communications, Critical Thinking, Collaboration",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/communication-skills",
+          "score": 0.4141
+        }
+      ]
+    }
+  },
+  {
+    "major": "Manajemen",
+    "status": "success",
+    "data": {
+      "query": "I am studying Manajemen and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Mastering Self Management Skills for Career Growth",
+          "organization": "LearnKartS",
+          "rating": 4.6,
+          "skills": "Prioritization, Conflict Management, Productivity, Active Listening, De-escalation Techniques, Time Management, Negotiation, Contract Negotiation, Critical Thinking, Creative Thinking, Brainstorming, Problem Solving, Growth Mindedness, Emotional Intelligence, Stress Management, Professionalism, Communication, Business Ethics, Self-Awareness, Goal Setting",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/mastering-self-management-skills",
+          "score": 0.4213
+        }
+      ]
+    }
+  },
+  {
+    "major": "Akuntansi",
+    "status": "success",
+    "data": {
+      "query": "I am studying Akuntansi and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Improve Your English Communication Skills",
+          "organization": "Georgia Institute of Technology",
+          "rating": 4.7,
+          "skills": "Sales Presentation, Presentations, Business Writing, Verbal Communication Skills, Business Correspondence, Public Speaking, Cultural Diversity, Professional Networking, Cultural Sensitivity, English Language, Vocabulary, Communication, Interpersonal Communications, LinkedIn, Writing, Business Communication, Interviewing Skills, Instagram, Social Skills, Concision",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/improve-english",
+          "score": 0.382
+        }
+      ]
+    }
+  },
+  {
+    "major": "Ekonomi",
+    "status": "success",
+    "data": {
+      "query": "I am studying Ekonomi and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Improve Communication with Genial.ly",
+          "organization": "Coursera Project Network",
+          "rating": 4.7,
+          "skills": "Train The Trainer, Virtual Environment, Technical Communication, Design, Educational Materials, Communication, User Accounts, Communication Strategies",
+          "difficulty": "Beginner",
+          "duration": "Less Than 2 Hours",
+          "link": "https://www.coursera.org/projects/improve-communication-genially",
+          "score": 0.4377
+        }
+      ]
+    }
+  },
+  {
+    "major": "Matematika",
+    "status": "success",
+    "data": {
+      "query": "I am studying Matematika and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Accelerate Your Job Search with AI",
+          "organization": "Google",
+          "rating": 4.8,
+          "skills": "Interviewing Skills, Applicant Tracking Systems, Professional Development, Generative AI, Prompt Engineering, Personal Attributes, Problem Solving, Communication",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/accelerate-your-job-search-with-ai",
+          "score": 0.4082
+        }
+      ]
+    }
+  },
+  {
+    "major": "Psikologi",
+    "status": "success",
+    "data": {
+      "query": "I am studying Psikologi and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Accelerate Your Job Search with AI",
+          "organization": "Google",
+          "rating": 4.8,
+          "skills": "Interviewing Skills, Applicant Tracking Systems, Professional Development, Generative AI, Prompt Engineering, Personal Attributes, Problem Solving, Communication",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/accelerate-your-job-search-with-ai",
+          "score": 0.3981
+        }
+      ]
+    }
+  },
+  {
+    "major": "Komunikasi",
+    "status": "success",
+    "data": {
+      "query": "I am studying Komunikasi and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Advanced Programming in Kotlin",
+          "organization": "Meta",
+          "rating": 4.7,
+          "skills": "Kotlin, Android Development, Android Studio, Unit Testing, Object Oriented Programming (OOP), Mobile Development, Test Driven Development (TDD), Integration Testing, Functional Design, Software Design Patterns, UI Components",
+          "difficulty": "Intermediate",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/advanced-programming-in-kotlin",
+          "score": 0.4437
+        }
+      ]
+    }
+  },
+  {
+    "major": "Desain Grafis",
+    "status": "success",
+    "data": {
+      "query": "I am studying Desain Grafis and want to improve my skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Improve Your English Communication Skills",
+          "organization": "Georgia Institute of Technology",
+          "rating": 4.7,
+          "skills": "Sales Presentation, Presentations, Business Writing, Verbal Communication Skills, Business Correspondence, Public Speaking, Cultural Diversity, Professional Networking, Cultural Sensitivity, English Language, Vocabulary, Communication, Interpersonal Communications, LinkedIn, Writing, Business Communication, Interviewing Skills, Instagram, Social Skills, Concision",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/improve-english",
+          "score": 0.383
+        }
+      ]
+    }
+  }
+]

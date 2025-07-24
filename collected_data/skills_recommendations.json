@@ -1,0 +1,553 @@
+[
+  {
+    "skill": "Accounting",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Accounting",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Introduction to Financial Accounting: The Accounting Cycle",
+          "organization": "University of California, Irvine",
+          "rating": 4.7,
+          "skills": "Ledgers (Accounting), Accounting Systems, Accounting, Month End Closing, Accounting Records, Bookkeeping, Financial Accounting, Financial Statements, General Accounting, General Ledger, Accrual Accounting, Standard Accounting Practices, Financial Reporting, Accruals, Income Statement, Balance Sheet, Revenue Recognition, Business Ethics, Ethical Standards And Conduct, Reconciliation",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/specializations/accounting",
+          "score": 0.5561
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Android",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Android",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Introduction to Android Mobile Application Development",
+          "organization": "Meta",
+          "rating": 4.6,
+          "skills": "Android Studio, Android Development, Android (Operating System), Mobile Development, Gradle, Application Development, Integrated Development Environments, Development Environment, Virtual Environment, Extensible Markup Language (XML), UI Components",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/introduction-to-android-mobile-application-development",
+          "score": 0.6337
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Artificial Intelligence",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Artificial Intelligence",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Artificial Intelligence: an Overview",
+          "organization": "Politecnico di Milano",
+          "rating": 4.6,
+          "skills": "Unsupervised Learning, Supervised Learning, Machine Learning Algorithms, Machine Learning, Applied Machine Learning, Intellectual Property, Data Ethics, Artificial Intelligence and Machine Learning (AI/ML), Legal Risk, Reinforcement Learning, Artificial Intelligence, Ethical Standards And Conduct, General Data Protection Regulation (GDPR), Dimensionality Reduction, Cloud Platforms, Deep Learning, Hardware Architecture, Information Technology Architecture, Law, Regulation, and Compliance, Computer Science",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/artificial-intelligence-overview",
+          "score": 0.5783
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Cloud Computing",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Cloud Computing",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Introduction to Cloud Computing",
+          "organization": "IBM",
+          "rating": 4.6,
+          "skills": "Cloud Computing Architecture, Cloud Services, Cloud Security, Cloud Technologies, Cloud Infrastructure, Cloud Platforms, Cloud Hosting, Cloud Engineering, Cloud Computing, Cloud Solutions, Cloud Development, Cloud Storage, Infrastructure As A Service (IaaS), Software As A Service, Emerging Technologies, Cloud-Native Computing, Cloud Management, Hybrid Cloud Computing, IBM Cloud, DevOps",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/introduction-to-cloud",
+          "score": 0.5943
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Communication Skills",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Communication Skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Communication Skills for University Success",
+          "organization": "The University of Sydney",
+          "rating": 4.8,
+          "skills": "Editing, Public Speaking, Proofreading, Research, Writing, Communication, English Language, Professionalism, Ethical Standards And Conduct, Interpersonal Communications, Critical Thinking, Collaboration",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/communication-skills",
+          "score": 0.6299
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Cybersecurity",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Cybersecurity",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Introduction to Cybersecurity Fundamentals",
+          "organization": "Coursera Instructor Network",
+          "rating": 4.6,
+          "skills": "Computer Security Awareness Training, Cybersecurity, Security Awareness, Cyber Attacks, Data Security, Personally Identifiable Information, Malware Protection, Threat Management, Email Security, Mitigation",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/introduction-to-cybersecurity-fundamentals",
+          "score": 0.7157
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Excel",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Excel",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Excel Skills for Business: Essentials",
+          "organization": "Macquarie University",
+          "rating": 4.9,
+          "skills": "Data Visualization, Microsoft Excel, Data Entry, Spreadsheet Software, Excel Formulas, Productivity Software, Data Management",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/excel-essentials",
+          "score": 0.6765
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Graphic Design",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Graphic Design",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Fundamentals of Graphic Design",
+          "organization": "California Institute of the Arts",
+          "rating": 4.8,
+          "skills": "Typography, Design Elements And Principles, Graphic Design, Visual Design, Design Software, Logo Design, Digital Design, Color Theory, Photo Editing, Adobe Creative Cloud, Creativity",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/fundamentals-of-graphic-design",
+          "score": 0.587
+        }
+      ]
+    }
+  },
+  {
+    "skill": "HR",
+    "status": "success",
+    "data": {
+      "query": "I want to learn HR",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "HRCI Human Resource Associate",
+          "organization": "HRCI",
+          "rating": 4.8,
+          "skills": "Talent Acquisition, Training and Development, Compensation and Benefits, Training Programs, Recruitment, Employee Training, Full Cycle Recruitment, Job Analysis, Employee Performance Management, Compensation Management, Performance Appraisal, Job Evaluation, Developing Training Materials, Compensation Strategy, Performance Management, Human Resource Policies, Employee Relations, Occupational Safety And Health, Business Continuity Planning, Risk Management",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/professional-certificates/hrci-human-resource-associate",
+          "score": 0.6313
+        }
+      ]
+    }
+  },
+  {
+    "skill": "iOS",
+    "status": "error",
+    "error": "HTTP 500: Internal Server Error"
+  },
+  {
+    "skill": "Java",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Java",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Java Programming for Beginners",
+          "organization": "IBM",
+          "rating": 4.9,
+          "skills": "Java Programming, Java, Object Oriented Programming (OOP), Development Environment, Application Development, Programming Principles, Computer Programming, Integrated Development Environments, Data Structures, Software Installation",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/java-for-programming-beginners",
+          "score": 0.7401
+        }
+      ]
+    }
+  },
+  {
+    "skill": "JavaScript",
+    "status": "success",
+    "data": {
+      "query": "I want to learn JavaScript",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "JavaScript for Beginners",
+          "organization": "University of California, Davis",
+          "rating": 4.7,
+          "skills": "jQuery, Javascript and jQuery, Ajax, Javascript, Data Manipulation, Data Validation, UI Components, HTML and CSS, Scripting, JSON, Scripting Languages, Event-Driven Programming, Web Development Tools, JavaScript Frameworks, Web Applications, Web Design and Development, Game Design, Application Programming Interface (API), Object Oriented Programming (OOP), Animations",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/javascript-beginner",
+          "score": 0.7015
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Machine Learning",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Machine Learning",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Machine Learning with Python",
+          "organization": "IBM",
+          "rating": 4.7,
+          "skills": "Unsupervised Learning, Supervised Learning, Feature Engineering, Applied Machine Learning, Scikit Learn (Machine Learning Library), Machine Learning, Predictive Modeling, Dimensionality Reduction, Regression Analysis, Decision Tree Learning, Classification And Regression Tree (CART), Statistical Modeling",
+          "difficulty": "Intermediate",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/machine-learning-with-python",
+          "score": 0.6281
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Marketing",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Marketing",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Attract and Engage Customers with Digital Marketing",
+          "organization": "Google",
+          "rating": 4.8,
+          "skills": "Search Engine Marketing, Google Ads, Search Engine Optimization, Target Audience, Digital Marketing, Online Advertising, Web Analytics and SEO, Persona Development, Keyword Research, Pay Per Click Advertising, Digital Advertising, Marketing, Advertising Campaigns, Marketing Strategies, Customer Acquisition Management, Lead Generation, Google Analytics",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/attract-and-engage-customers",
+          "score": 0.5456
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Math",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Math",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Math Prep: College & Work Ready",
+          "organization": "University of North Texas",
+          "rating": 4.5,
+          "skills": "Arithmetic, Probability & Statistics, Graphing, Geometry, Statistics, Algebra, Applied Mathematics, Systems Of Measurement",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/tsi-math-prep",
+          "score": 0.6096
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Network",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Network",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Networking Fundamentals",
+          "organization": "Akamai Technologies, Inc.",
+          "rating": 4.7,
+          "skills": "Routing Protocols, OSI Models, Remote Access Systems, Network Architecture, TCP/IP, General Networking, Network Protocols, Network Troubleshooting, Computer Networking, Networking Hardware, Network Administration, Network Security, Network Infrastructure, Network Model, Virtual Private Networks (VPN), Wireless Networks, Network Routers, Network Routing, Dynamic Host Configuration Protocol (DHCP), Intrusion Detection and Prevention",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/akamai-networking",
+          "score": 0.484
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Networking",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Networking",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Introduction to Networking",
+          "organization": "NVIDIA",
+          "rating": 4.6,
+          "skills": "OSI Models, TCP/IP, Data Centers, Network Protocols, Network Infrastructure, Local Area Networks, General Networking, Network Architecture, Computer Networking, Network Switches, System Requirements",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/introduction-to-networking-nvidia",
+          "score": 0.5385
+        }
+      ]
+    }
+  },
+  {
+    "skill": "OOP",
+    "status": "success",
+    "data": {
+      "query": "I want to learn OOP",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Learn Java Programming",
+          "organization": "Heriot-Watt University",
+          "rating": 0.0,
+          "skills": "Object Oriented Programming (OOP), Java, Java Programming, Computer Programming, Programming Principles, Software Development, Algorithms, Computational Logic",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/learn-java-programming",
+          "score": 0.6451
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Power BI",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Power BI",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Power BI Fundamentals",
+          "organization": "Corporate Finance Institute",
+          "rating": 4.9,
+          "skills": "Power BI, Data Analysis Expressions (DAX), Dashboard, Business Intelligence, Data Import/Export, Business Reporting, Interactive Data Visualization, Data Storytelling, Data Modeling, Data Transformation, Data Visualization Software, Data Analysis, Data Sharing, Sales, Key Performance Indicators (KPIs)",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/power-bi-fundamentals",
+          "score": 0.5375
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Presentation Skills",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Presentation Skills",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "مهارات العرض والتقديم | Presentation Skills",
+          "organization": "Alfaisal University | KLD",
+          "rating": 4.8,
+          "skills": "Presentations, Persuasive Communication, Public Speaking, Communication, Verbal Communication Skills, Non-Verbal Communication, Target Audience",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/presentation-skills-",
+          "score": 0.6458
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Project Management",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Project Management",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Project Management Essentials",
+          "organization": "Howard University",
+          "rating": 4.6,
+          "skills": "Project Management Life Cycle, Project Management Institute (PMI) Methodology, Project Management, Project Coordination, Agile Project Management, Project Risk Management, Scope Management, Project Controls, Project Planning, Project Closure, Stakeholder Management, Change Control, Leadership",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/copy-of-project-management-essentials",
+          "score": 0.6351
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Python",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Python",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Learn Python",
+          "organization": "Scrimba",
+          "rating": 4.8,
+          "skills": "Object Oriented Programming (OOP), Data Structures, Python Programming, Programming Principles, User Interface (UI), Computer Programming, Scripting, Software Engineering, Performance Tuning, Scripting Languages, File Management, Web Development, Computational Thinking, Debugging, Software Development, Web Development Tools",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/specializations/learn-python",
+          "score": 0.6664
+        }
+      ]
+    }
+  },
+  {
+    "skill": "SEO",
+    "status": "success",
+    "data": {
+      "query": "I want to learn SEO",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Google SEO Fundamentals",
+          "organization": "University of California, Davis",
+          "rating": 4.8,
+          "skills": "Search Engine Optimization, Web Analytics and SEO, Keyword Research, Content Strategy, Digital Marketing, Marketing, Content Performance Analysis, Content Creation, Social Media, Artificial Intelligence, Information Architecture, User Experience",
+          "difficulty": "Intermediate",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/seo-fundamentals",
+          "score": 0.6209
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Social Media",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Social Media",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Social Media Content and Strategy",
+          "organization": "Adobe",
+          "rating": 4.8,
+          "skills": "Social Media Content, Social Media, Content Creation, Social Media Strategy, Social Media Marketing, Content Performance Analysis, Social Media Management, Intellectual Property, Target Audience, Drive Engagement, Customer Engagement, Content Strategy, Ethical Standards And Conduct, Regulation and Legal Compliance, Multimedia, Scheduling, Video Production, Branding, Generative AI Agents",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/social-media-content-and-strategy",
+          "score": 0.5116
+        }
+      ]
+    }
+  },
+  {
+    "skill": "SQL",
+    "status": "success",
+    "data": {
+      "query": "I want to learn SQL",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "SQL: A Practical Introduction for Querying Databases",
+          "organization": "IBM",
+          "rating": 4.7,
+          "skills": "SQL, Relational Databases, Microsoft SQL Servers, MySQL, Query Languages, Database Systems, Databases, Database Management, Stored Procedure, IBM DB2, Data Manipulation, Data Analysis, Transaction Processing",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases",
+          "score": 0.7046
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Statistics",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Statistics",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Introduction to Statistics",
+          "organization": "Stanford University",
+          "rating": 4.6,
+          "skills": "Descriptive Statistics, Statistics, Statistical Methods, Sampling (Statistics), Statistical Analysis, Data Analysis, Statistical Modeling, Statistical Hypothesis Testing, Regression Analysis, Statistical Inference, Probability, Exploratory Data Analysis, Quantitative Research, Data Collection, Probability Distribution",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/stanford-statistics",
+          "score": 0.6382
+        }
+      ]
+    }
+  },
+  {
+    "skill": "Web Development",
+    "status": "success",
+    "data": {
+      "query": "I want to learn Web Development",
+      "total_results": 1,
+      "recommendations": [
+        {
+          "rank": 1,
+          "title": "Introduction to Web Development with HTML, CSS, JavaScript",
+          "organization": "IBM",
+          "rating": 4.6,
+          "skills": "Hypertext Markup Language (HTML), HTML and CSS, Web Development, Web Development Tools, Cascading Style Sheets (CSS), Front-End Web Development, Web Design, Javascript, Interactive Design, Web Applications, Full-Stack Web Development, Back-End Web Development",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript",
+          "score": 0.7259
+        }
+      ]
+    }
+  }
+]

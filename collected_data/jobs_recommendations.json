@@ -1,0 +1,314 @@
+[
+  {
+    "job_title": "Data Analyst",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Data Analyst",
+        "description": "Responsible for collecting, processing, and performing statistical analyses of data.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Meta Data Analyst",
+          "organization": "Meta",
+          "rating": 4.7,
+          "skills": "Data Storytelling, Business Metrics, Key Performance Indicators (KPIs), Data Management, Data Collection, Data Governance, Bayesian Statistics, Data Visualization, Descriptive Statistics, Statistical Hypothesis Testing, Information Privacy, Data Cleansing, Pandas (Python Package), Data Quality, Data Analysis, Data Visualization Software, Spreadsheet Software, Exploratory Data Analysis, SQL, Python Programming",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/professional-certificates/meta-data-analyst",
+          "similarity_score": 0.5983107686042786
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "Backend Developer",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Backend Developer",
+        "description": "Summary of the Position:\n\nWe are seeking a Backend Developer to join our application development team at India (Pune) Development Center. The candidate will play a significant role in developing highly interactive and cutting-edge applications for enterprise clients. The candidate will provide hands-on development expertise and technical abilities to deliver quality software solutions.\n\nJob Responsibilities:\n\nDevelop Microservices and REST API that will integrate with Frontend.\nTranslate business requirements into high-quality code.\nExperience in deploying application on Cloud- Azure.\nFocus on code maintainability and performance of an application.\nProvide technical advice and assists in solving programming problems\nHands-on experience with unit and automation testing tools such as Junit\n\nMinimum Qualifications:\n\nBachelor’s degree in any Engineering discipline from reputed engineering college\n6+ years of strong programming skills in Cloud Technologies and backend development\nHands-on experience in deploying Microservices and REST APIs using Java and Spring Boot.\nStrong integration experience using Node.js, AJAX and JSON\nExperience in working with NoSQL like Combos DB and RDBMS like Azure, SQL.\nStrong deployment experience on Azure functions.\nNice to have:\nHands-on experience with Build and CI/CD tools like Ant, Gradle, Docker, Jenkins\nHands-on experience with unit and automation testing tools such as Junit, Rest Assured, Serenity, JMeter, etc\nWorking knowledge of software design patterns, distributed systems, resiliency, security and logging\nPassionate, adaptable, flexible, independent and self-motivated individuals who take initiative and ownership of projects are desired.\nNice to have good written and verbal communication skills\n\nCompany Description\n\nInfogain is a Silicon Valley headquartered company with software platform engineering and deep domain expertise in the travel, retail, insurance and high technology industries. We accelerate the delivery of digital customer engagement systems using digital technologies such as cloud, microservices, robotic process automation and artificial intelligence to our clients.\n\nInfogain delivers positive business outcomes for Fortune 500 companies and digital natives, using rapid prototyping and a solid foundation of DevSecOps-based software platform engineering that ensure high-quality and on-time delivery. A ChrysCapital portfolio company, Infogain has offices in California, Washington, Texas, London, Dubai, India and Singapore, with delivery centers in Austin, New Delhi, Bangalore, Pune, and Mumbai.\n\nVisit us as www.infogain.com to learn more.",
+        "skills": [
+          "Java",
+          "Node.Js",
+          "Sql",
+          "Git",
+          "Docker",
+          "Azure"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Developing Back-End Apps with Node.js and Express",
+          "organization": "IBM",
+          "rating": 4.5,
+          "skills": "Node.JS, Server Side, Restful API, Back-End Web Development, JavaScript Frameworks, Cloud Applications, Web Applications, Web Development, Application Programming Interface (API), Web Servers, Javascript, Authentications, Package and Software Management, JSON, Middleware, Computer Science",
+          "difficulty": "Intermediate",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express",
+          "similarity_score": 0.5922070145606995
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "QA Tester",
+    "status": "error",
+    "error": "HTTP 500: Internal Server Error"
+  },
+  {
+    "job_title": "Social Media Strategist",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Social Media Strategist",
+        "description": "Develops strategies to grow brand awareness and engagement across social platforms.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Social Media Content and Strategy",
+          "organization": "Adobe",
+          "rating": 4.8,
+          "skills": "Social Media Content, Social Media, Content Creation, Social Media Strategy, Social Media Marketing, Content Performance Analysis, Social Media Management, Intellectual Property, Target Audience, Drive Engagement, Customer Engagement, Content Strategy, Ethical Standards And Conduct, Regulation and Legal Compliance, Multimedia, Scheduling, Video Production, Branding, Generative AI Agents",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/social-media-content-and-strategy",
+          "similarity_score": 0.6318079233169556
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "Public Relations",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Public Relations",
+        "description": "Manages communication between the organization and the public to build a positive image.",
+        "skills": [
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Principles of Public Relations",
+          "organization": "University of Colorado Boulder",
+          "rating": 4.7,
+          "skills": "Strategic Communication, Public Relations, Marketing and Public Relations, Corporate Communications, Media Relations, Communication Strategies, Corporate Sustainability, Brand Management, Business Ethics, Persuasive Communication, Branding, Professional Networking, Research, Stakeholder Engagement",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/principles-of-public-relations",
+          "similarity_score": 0.6574071645736694
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "Tax Consultant",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Tax Consultant",
+        "description": "Provides advice and services to help clients minimize tax liabilities and comply with laws.",
+        "skills": [
+          "Aws"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "SAP Technology Consultant",
+          "organization": "SAP",
+          "rating": 4.7,
+          "skills": "Digital Transformation, Cloud Computing Architecture, Stakeholder Engagement, Consulting, Systems Design, Relationship Management, Business Consulting, Cloud Computing, Technical Design, Solution Design, User Feedback, Product Strategy, Technical Consulting, Customer Engagement, Cybersecurity, System Implementation, Professional Networking, Project Management, SAP Applications, Test Planning",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/professional-certificates/sap-technology-consultant",
+          "similarity_score": 0.37607434391975403
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "Copywriter",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Copywriter",
+        "description": "Creates compelling written content for advertisements, websites, and marketing materials.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "AI-Enhanced Copywriting: SurferSEO, Upword and Anyword",
+          "organization": "Coursera Instructor Network",
+          "rating": 4.0,
+          "skills": "Copywriting, Search Engine Optimization, Web Analytics and SEO, Target Audience, Content Creation, Web Content, Productivity Software, Brand Awareness, Marketing Automation, Generative AI",
+          "difficulty": "Beginner",
+          "duration": "1 - 4 Weeks",
+          "link": "https://www.coursera.org/learn/ai-enhanced-copywriting-surferseo-upword-and-anyword",
+          "similarity_score": 0.638442873954773
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "Financial Analyst",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Financial Analyst",
+        "description": "Evaluates financial data to support business decisions and investment strategies.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Financial Analysis - Skills for Success",
+          "organization": "University of Illinois Urbana-Champaign",
+          "rating": 4.7,
+          "skills": "Financial Statements, Financial Statement Analysis, Financial Forecasting, Financial Accounting, Variance Analysis, Financial Analysis, Income Statement, Balance Sheet, Performance Measurement, Management Accounting, Return On Investment, Revenue Forecasting, Cash Flow Forecasting, Financial Management, Cost Management, Financial Data, Budgeting, Finance, Accounting, Business Valuation",
+          "difficulty": "Beginner",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/specializations/financial-analysis-skills-for-success",
+          "similarity_score": 0.6496248245239258
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "Auditor",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Auditor",
+        "description": "Reviews financial records and operations to ensure accuracy and compliance with regulations.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Auditing I: Conceptual Foundations of Auditing",
+          "organization": "University of Illinois Urbana-Champaign",
+          "rating": 4.7,
+          "skills": "Financial Auditing, Auditing, Auditors Report, Generally Accepted Auditing Standards, Audit Planning, External Auditing, Certified Public Accountant, Financial Reporting, Internal Controls, Quality Assessment, Ethical Standards And Conduct, Financial Statements, Business Ethics, Risk Analysis",
+          "difficulty": "Intermediate",
+          "duration": "1 - 3 Months",
+          "link": "https://www.coursera.org/learn/auditing-part1-conceptual-foundations",
+          "similarity_score": 0.6050792336463928
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "HR Generalist",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "HR Generalist",
+        "description": "Handles day-to-day HR operations, including recruitment, onboarding, and employee relations.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Human Resource Management: HR for People Managers",
+          "organization": "University of Minnesota",
+          "rating": 4.8,
+          "skills": "Performance Management, Performance Appraisal, Performance Review, Compensation Management, Compensation Strategy, Compensation and Benefits, Constructive Feedback, Workforce Planning, Human Resource Strategy, Human Resources, Employee Onboarding, Recruitment, Employee Performance Management, Recruitment Strategies, Human Capital, Compensation Analysis, Talent Acquisition, Human Resources Management and Planning, People Management, Job Analysis",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/human-resource-management",
+          "similarity_score": 0.5432997941970825
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "Career Counselor",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "Career Counselor",
+        "description": "Guides individuals in choosing or changing careers through assessment and counseling.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "Mastering Self Management Skills for Career Growth",
+          "organization": "LearnKartS",
+          "rating": 4.6,
+          "skills": "Prioritization, Conflict Management, Productivity, Active Listening, De-escalation Techniques, Time Management, Negotiation, Contract Negotiation, Critical Thinking, Creative Thinking, Brainstorming, Problem Solving, Growth Mindedness, Emotional Intelligence, Stress Management, Professionalism, Communication, Business Ethics, Self-Awareness, Goal Setting",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/mastering-self-management-skills",
+          "similarity_score": 0.5154072642326355
+        }
+      ]
+    }
+  },
+  {
+    "job_title": "User Researcher",
+    "status": "success",
+    "data": {
+      "job_details": {
+        "title": "User Researcher",
+        "description": "Conducts user studies to understand behaviors, needs, and motivations for product design.",
+        "skills": [
+          "General Skills",
+          "Problem Solving",
+          "Communication"
+        ]
+      },
+      "total_results": 1,
+      "recommendations": [
+        {
+          "title": "User Experience Research and Design",
+          "organization": "University of Michigan",
+          "rating": 4.7,
+          "skills": "UI/UX Research, Surveys, Qualitative Research, Usability Testing, User Experience Design, User Research, User Experience, User Story, Prototyping, Wireframing, User Centered Design, Survey Creation, Sampling (Statistics), Design Research, Interaction Design, Ideation, A/B Testing, Conceptual Design, Web Analytics, User Interface (UI)",
+          "difficulty": "Beginner",
+          "duration": "3 - 6 Months",
+          "link": "https://www.coursera.org/specializations/michiganux",
+          "similarity_score": 0.5412722826004028
+        }
+      ]
+    }
+  }
+]

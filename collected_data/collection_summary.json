@@ -1,0 +1,26 @@
+{
+  "total_queries": 50,
+  "successful_queries": 48,
+  "failed_queries": 2,
+  "categories": {
+    "skills": {
+      "total": 27,
+      "successful": 26,
+      "failed": 1,
+      "success_rate": "96.3%"
+    },
+    "jobs": {
+      "total": 12,
+      "successful": 11,
+      "failed": 1,
+      "success_rate": "91.7%"
+    },
+    "majors": {
+      "total": 11,
+      "successful": 11,
+      "failed": 0,
+      "success_rate": "100.0%"
+    }
+  },
+  "overall_success_rate": "96.0%"
+}
